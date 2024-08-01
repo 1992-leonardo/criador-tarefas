@@ -8,8 +8,6 @@ public class CriadorTarefasApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CriadorTarefasApplication.class, args);
-		System.out.println("Olaah");
-
 	}
 
 }
